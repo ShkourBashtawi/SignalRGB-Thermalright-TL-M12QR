@@ -6,7 +6,7 @@ Community-made custom component layouts for [SignalRGB](https://signalrgb.com), 
 
 | File | Brand | Type | LEDs | Status |
 |------|-------|------|------|--------|
-| [`Thermalright_TL-M12QR.json`](components/Thermalright_TL-M12QR.json) | Thermalright | Fan (120 mm, ARGB 5V 3-pin) | 28 |
+| [`Thermalright_TL-M12QR.json`](components/Thermalright_TL-M12QR.json) | Thermalright | Fan (120 mm, ARGB 5V 3-pin) | 28 | Testing completed.
 
 ### Thermalright TL-M12QR — layout
 
